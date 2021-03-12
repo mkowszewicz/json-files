@@ -12,7 +12,7 @@
         "itemToVerifyGuid" : "E3CA4B16-3EDF-40A5-B92B-8AC5871F45AA",
         "itemGuid" : "5AD0F387-EBA4-4AD2-A6A0-44800E6CE826",
         "blozNumber" : "4867321",
-        "code" : "",
+        "codes" : [""],
         "name" : "CISPLATIN TEVA INF 1MG/ML 50ML",
         "form" : "Infusion",
         "dose" : "1 mg/ml",
@@ -28,7 +28,7 @@
         "itemToVerifyGuid" : "1580ABBB-D906-4BBE-B3AB-43CA39A00BE6",
         "itemGuid" : "B3607D33-72AF-4E6E-9B73-6E0EED996723",
         "blozNumber" : "6285402",
-        "code" : "",
+        "codes" : [""],
         "name" : "Vibovit Junior pomaraĹcz.",
         "form" : "prosz.do sp.roztw.",
         "dose" : "2 g",
@@ -37,49 +37,6 @@
         "lotNumber" : "ABCDEF123",
         "quantity" : 5,
         "deliveryGuid" : "50C75BAD-D0A6-4134-8416-C23F001821D4",
-        "deliveryNumber" : "12345",
-        "deliveryDate" : "2021-01-01"
-      }
-    ]
-  },
-  {
-    "itemsToVerifyGuid" : "ba7e1e92-c02c-4ea2-9ae3-a36e732ed333",
-    "itemsVisible" : true,
-    "deliveryVisible" : true,
-    "useItemsDictionary" : "",
-    "optionalExpiryDate" : "",
-    "optionalLotNumber" : "",
-    "description" : "Opis - dokument specyfikacji dostawy",
-    "items" : [
-      {
-        "itemToVerifyGuid" : "1a4f8c8c-ffae-4e49-9469-5a7d6e4eb997",
-        "itemGuid" : "5AD0F387-EBA4-4AD2-A6A0-44800E6CE826",
-        "blozNumber" : "4867321",
-        "code" : "",
-        "name" : "CISPLATIN TEVA INF 1MG/ML 50ML",
-        "form" : "Infusion",
-        "dose" : "1 mg/ml",
-        "package" : "1 Glass Vial 1 X 1 INJECTION",
-        "expiryDate" : "2021-06-30",
-        "lotNumber" : "QAZWSX123",
-        "quantity" : 6,
-        "deliveryGuid" : "6de957b5-2bb1-421b-a608-a01d8a064338",
-        "deliveryNumber" : "12345",
-        "deliveryDate" : "2021-01-01"
-      },
-      {
-        "itemToVerifyGuid" : "62df4526-c340-4935-890e-737a6f97fbe7",
-        "itemGuid" : "B3607D33-72AF-4E6E-9B73-6E0EED996723",
-        "blozNumber" : "6285402",
-        "code" : "",
-        "name" : "Vibovit Junior pomaraĹcz.",
-        "form" : "prosz.do sp.roztw.",
-        "dose" : "2 g",
-        "package" : "30 sasz.",
-        "expiryDate" : "2021-07-15",
-        "lotNumber" : "ABCDEF123",
-        "quantity" : 2,
-        "deliveryGuid" : "dc619d0b-7353-4186-a1de-c0fac93ec8dd",
         "deliveryNumber" : "12345",
         "deliveryDate" : "2021-01-01"
       }
